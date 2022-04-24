@@ -1,0 +1,4 @@
+When ok is clicked after the credits pop-up, the play button is also pressed.
+When paused or when the restart dialog is showing, movement is allowed, but should not be.
+Sometimes, when about to lose, the game crashes.
+Tetris pieces appear over dialog boxes.
